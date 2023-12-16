@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938605949053",
+    "project_id": "wakala-82476",
+    "storage_bucket": "wakala-82476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938605949053:android:7b5e48aa7092b88d980114",
+        "android_client_info": {
+          "package_name": "com.example.denuncios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU34FdfcorGgq5Iazmh5VWnxuGAeTl6vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
